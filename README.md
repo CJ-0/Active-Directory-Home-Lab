@@ -65,3 +65,23 @@ This project demonstrates the setup and configuration of a Windows Active Direct
 - Networking fundamentals
 - Virtualization and lab environments
 - Problem-solving and troubleshooting
+
+## Screenshots
+
+Below are screenshots demonstrating the successful configuration and operation of the Active Directory Home Lab.
+
+### Active Directory Users
+![Active Directory Users](screenshots/ad-users.png)
+
+### DNS Configuration
+![DNS Manager](screenshots/dns-manager.png)
+
+### Domain User Login (cjones)
+![Domain Login](screenshots/domain-login-cjones.png)
+
+### Network Connectivity Verification
+**Client → Domain Controller**
+![Ping Client to DC](screenshots/ping-client-to-dc.png)
+
+**Domain Controller → Client**
+![Ping DC to Client](screenshots/ping-dc-to-client.png)
