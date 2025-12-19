@@ -77,11 +77,11 @@ Below are screenshots demonstrating the successful configuration and operation o
 ![DNS Manager](screenshots/dns-manager.png)
 
 ### Domain User Login (cjones)
-![Domain Login](screenshots/domain-login-cjones.png)
+![Domain Login](screenshots/domain-user-login-cjones.png)
 
 ### Network Connectivity Verification
 **Client → Domain Controller**
-![Ping Client to DC](screenshots/ping-client-to-dc.png)
+![Ping Client to DC](screenshots/client-to-dc-ping.png)
 
 **Domain Controller → Client**
-![Ping DC to Client](screenshots/ping-dc-to-client.png)
+![Ping DC to Client](screenshots/dc-to-client-ping.png)
